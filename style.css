@@ -1,5 +1,27 @@
 h1 {
-font-family: Arial;
-color: blue
-font-size: 2em;
+  font-family: Arial;
+  color: blue
+  font-size: 2em;
+}
+
+p {
+
+}
+
+/*Selectors for the challenge*/
+
+#title {
+
+}
+
+#description {
+
+}
+
+#survey-form {
+
+}
+
+#name {
+    
 }
